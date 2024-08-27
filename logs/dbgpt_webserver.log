@@ -1,0 +1,10 @@
+2024-08-12 10:23:35 | INFO | dbgpt.model.cluster.worker.manager | Stop all workers
+2024-08-12 10:23:35 | INFO | dbgpt.model.cluster.worker.manager | Stop all workers
+2024-08-12 10:23:35 | INFO | dbgpt.model.cluster.worker.manager | Apply req: None, apply_func: <function LocalWorkerManager._stop_all_worker.<locals>._stop_worker at 0x323ac2560>
+2024-08-12 10:23:35 | INFO | dbgpt.model.cluster.worker.manager | Apply req: None, apply_func: <function LocalWorkerManager._stop_all_worker.<locals>._stop_worker at 0x323ac2560>
+2024-08-12 10:23:35 | INFO | dbgpt.model.cluster.worker.manager | Apply to all workers
+2024-08-12 10:23:35 | INFO | dbgpt.model.cluster.worker.manager | Apply to all workers
+2024-08-12 10:23:36 | WARNING | dbgpt.model.cluster.worker.manager | Stop worker, ignored exception from deregister_func: All connection attempts failed
+2024-08-12 10:23:36 | WARNING | dbgpt.model.cluster.worker.manager | Stop worker, ignored exception from deregister_func: All connection attempts failed
+2024-08-12 10:23:36 | WARNING | dbgpt.model.cluster.worker.manager | Stop worker, ignored exception from deregister_func: All connection attempts failed
+2024-08-12 10:23:36 | WARNING | dbgpt.model.cluster.worker.manager | Stop worker, ignored exception from deregister_func: All connection attempts failed
